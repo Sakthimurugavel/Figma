@@ -30,9 +30,40 @@ Publish the website in the given URL.
 
 ## DESIGN TOOL:
 Figma
+```
+/* home page */
 
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #E70F0F;
+
+
+/* Login page */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FBF106;
+
+
+/* SEC page */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #F518EC;
+```
 ## OUTPUT:
-
+![HOMEPAGE](out1.png)
+![LOGINPAGE](out2.png)
+![SECPAGE](out3.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
